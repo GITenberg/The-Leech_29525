@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2960
     wikipedia: http://en.wikipedia.org/wiki/Robert_Sheckley
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29525#The-Leech
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2009-07-27'
 gutenberg_type: Text
